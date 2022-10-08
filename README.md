@@ -15,16 +15,7 @@ Strimio has thousands of hours of work behind it. To keep creating features, i k
 
 The continued donations of users is what allows Strimio to be available for free today.
 
-
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
+## Contributors
 
 Spiral2k - 
 [@spiral2k](https://twitter.com/spiral2k_)
