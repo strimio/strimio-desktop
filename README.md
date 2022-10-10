@@ -17,7 +17,6 @@ The continued donations of users is what allows Strimio to be available for free
 
 ## Contributors
 
-Spiral2k - 
 [@spiral2k](https://twitter.com/spiral2k_)
 
 
