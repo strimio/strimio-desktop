@@ -13,7 +13,7 @@ Founded in 2020, Strimio was designed, developed, and maintained by Spiral2k.
 Features:
 
 - Catalog - A huge catalog of streams with more than 30,000 streams to choose from.
-- Library - Manage your streams easier, add streams, create folders, and edit streams information.
+- Library - Manage your streams easier, add streams, create folders, and edit streams information easily.
 - Import/Export library - Quickly share or restore your library.
 - Strimio Connect - With Strimio, you can play your streams on an external device like Sonos®, Chromecast®, and any Android TV (support for Cast required) with one click.
 - Now playing information - Strimio will fetch metadata about what is being broadcast in your streams automatically.
