@@ -10,7 +10,7 @@ Strimio is a free media player for macOS, Windows, and Linux, that enables you t
 Founded in 2020, Strimio was designed, developed, and maintained by Spiral2k.
 
 
-Features:
+## Features
 
 - Catalog - A huge catalog of streams with more than 30,000 streams to choose from.
 - Library - Manage your streams easier, add streams, create folders, and edit streams information easily.
