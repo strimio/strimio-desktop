@@ -28,6 +28,9 @@ Strimio has thousands of hours of work behind it. To keep creating features, i k
 
 The continued donations of users is what allows Strimio to be available for free today.
 
+
+[Donate](https://ko-fi.com/spiral2k)
+
 ## Contributors
 
 [@spiral2k](https://twitter.com/spiral2k_)
