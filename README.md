@@ -40,3 +40,7 @@ The continued donations of users is what allows Strimio to be available for free
 ## License
 
 MIT
+
+
+[strimio.com](https://strimio.com)
+
