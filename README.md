@@ -1,6 +1,6 @@
 # Strimio
 
-![Strimio](http://strimio.com/assets/hero.fb6f8a8c.png)
+![Strimio](https://cdn.statically.io/img/strimio.com/hero-1.png)
 
 ## Description
 
