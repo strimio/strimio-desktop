@@ -33,7 +33,7 @@ The continued donations of users is what allows Strimio to be available for free
 
 ## Contributors
 
-[@spiral2k](https://twitter.com/spiral2k_)
+[@spiral2k](https://github.com/spiral2k)
 
 
 ## License
