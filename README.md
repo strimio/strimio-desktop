@@ -1,6 +1,6 @@
 # Strimio
 
-![Strimio](https://cdn.statically.io/img/strimio.com/hero-1.png)
+![image](https://github.com/user-attachments/assets/cdf8c8eb-f601-4c3b-8629-d83ac72d0741)
 
 ## Description
 
@@ -29,7 +29,6 @@ Strimio has thousands of hours of work behind it. To keep creating features, i k
 
 The continued donations of users is what allows Strimio to be available for free today.
 
-
 [Donate](https://ko-fi.com/spiral2k)
 
 ## Contributors
@@ -44,3 +43,4 @@ MIT
 
 [strimio.com](https://strimio.com)
 
+![image](https://github.com/user-attachments/assets/e34fdd41-04d5-41c8-aaa4-bb49f357682f)
